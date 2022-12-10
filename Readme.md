@@ -7,7 +7,6 @@
 - scikit-learn - 1.0.2
 - matplotlib - 3.5.2
 - collections
-- enumerate
 
 ### Executing Decision_trees_STak:
 
