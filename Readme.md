@@ -12,7 +12,7 @@
 
 - Breast Cancer data-set: This data-set is already loaded in sklearn, so you will not have to change anything, just uncomment the section "Breast Cancer Data" in the code with rest of the data-sets commented.  
 
-- Car evaluation data-set: Put the file "car\_evaluation.csv" which is uploaded on canvas, in the same library as the code. Then in the code in the section "Car Data" update the path of parameter "df" same as the library. Rest of the things are already encoded, should work perfectly. 
+- Car evaluation data-set: Put the file "car_evaluation.csv" which is uploaded on canvas, in the same library as the code. Then in the code in the section "Car Data" update the path of parameter "df" same as the library. Rest of the things are already encoded, should work perfectly. 
 
 - Data-set used in paper: To use this, comment rest of the data-sets, and uncomment the "Custom" data-set
 
@@ -22,17 +22,17 @@
 __Car Evaluation dataset__
 
 - The dataset is stored in the 'data' folder shared in the zip file
-- Navigate to folder 'Decision\_tree\_car\_sales'
+- Navigate to folder 'Decision_tree_car_sales'
 - Execute the file 'DecisionTree.ipynb'
 
 __Breast Cancer Dataset__
 
 - The dataset is pre-defined in scikit-learn package.
-- Navigate to folder 'Decision\_Tree\_Breast\_Cancer'
+- Navigate to folder 'Decision_Tree_Breast_Cancer'
 - Execute the file 'DecisionTree.ipynb'
 
 __Dataset used by the paper / Custom Dataset__
 
 - The dataset is created in the notebook.
-- Navigate to folder 'Decision\_Tree\_Custom\_data'
-- Execute the file 'Decision\_Tree\_Custom.ipynb'
+- Navigate to folder 'Decision_Tree_Custom_data'
+- Execute the file 'Decision_Tree_Custom.ipynb'
